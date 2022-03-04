@@ -1,7 +1,7 @@
 # Depth First Search
 
 
-Depth First Search Algorithm
+Depth First Search Algorithm : 
 A standard DFS implementation puts each vertex of the graph into one of two categories:
 
 *   Visited
