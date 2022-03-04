@@ -1,4 +1,5 @@
-# DFS_AI
+# Depth First Search
+
 
 Depth First Search Algorithm
 A standard DFS implementation puts each vertex of the graph into one of two categories:
