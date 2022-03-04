@@ -18,8 +18,8 @@ The DFS algorithm works as follows:
 
 ## Output:
 
+![image](https://user-images.githubusercontent.com/73773202/156792626-43be357b-b940-46d7-9c6f-978c55c15665.png)
 
-![Uploading image.png…]()
 
 
 ---
